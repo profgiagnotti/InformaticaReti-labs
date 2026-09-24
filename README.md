@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-attivo-brightgreen?style=flat-square)
 ![Anno 3](https://img.shields.io/badge/Anno%201-6%20moduli-3DE8A0?style=flat-square)
 
-Raccolta completa di laboratori tecnici in italiano su **Informatica** e molto altro.  
+Raccolta completa di laboratori tecnici in italiano su **Informatica e Reti** e molto altro.  
 Ogni laboratorio è pensato per essere **pratico e completo** — dalla consultazione veloce allo studio approfondito.
 
 > Nuovi laboratori aggiunti ogni settimana. Metti una ⭐ al repo per ricevere notifiche.
@@ -17,104 +17,29 @@ Ogni laboratorio è pensato per essere **pratico e completo** — dalla consulta
 ```
 Tecnologia-labs/
 │
-├── Anno-3/                         ← Algoritmi e basi dei linguaggi di programmazione
-│   ├── Modulo-1/                   🔜 in arrivo
-│   ├── Modulo-2/                   🔜 in arrivo
-│   ├── Modulo-3/                   🔜 in arrivo
-│   └── Modulo-4/                   🔜 in arrivo
-│
-├── Anno-4/                         ← Programmazione OOP
-│   ├── Modulo-1/                   🔜 in arrivo
-│   └── Modulo-2/                   🔜 in arrivo
-│
-└── Anno-5/                         ← Database, SQL e PHP
+├── Anno-1/                         ← Algoritmi e basi dei linguaggi di programmazione
     ├── Modulo-1/                   ✅ disponibile
     ├── Modulo-2/                   🔜 in arrivo
-    └── Modulo-3/                   🔜 in arrivo
-    
+    ├── Modulo-3/                   🔜 in arrivo
+    ├── Modulo-4/                   🔜 in arrivo
+    ├── Modulo-5/                   🔜 in arrivo
+    └── Modulo-6/                   🔜 in arrivo
+
 
 ```
 
 ---
 
-## 📂 Anno 3 — Algoritmi e basi dei linguaggi di programmazione
+## 📂 Anno 1 — Le basi del computer e dei sistemi operativi
 
 ### Modulo 1 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
-
-### Modulo 4 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Livello |
-|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-4 | Lezione-x | xxx | ⭐ Base |
-
-
----
-
-## 📂 Anno 4 — Programmazione OOP
-
-### Modulo 1 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-1 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
----
-
-## 📂 Anno 5 — Database, SQL e PHP
 
 ### Modulo 1 — Database
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Individua Entità, Associazioni e Attributi](./Anno5/Modulo1/pr-a5-m1-l02-es-individuazione-entita-associazioni.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐ Base |
-| [Realizza schemi E/R](./Anno5/Modulo1/pr-a5-m1-l02-es-analisi-problema-modellazione-dati.md) | Modulo-1 | Lezione-2 | Modello Concettuale | ⭐⭐ Intermedio |
-| [Da schemi E/R a tabelle](./Anno5/Modulo1/Pr-A5-M1-L03-Es-Traduzione-Er-Relazionale.md) | Modulo-1 | Lezione-3 | Modello Relazionale | ⭐⭐ Intermedio |
-
-### Modulo 2 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 3 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
-
-
+| [File e cartelle in Windows](./Anno1/Modulo1/Gestione-File-E-Cartelle-In-Windows.md) | Modulo-1 | Lezione-4 | Windows | ⭐ Base |
+| [File e cartelle in Ubuntu](./Anno1/Modulo1/Gestione_file_e_cartelle_in_Ubuntu.md) | Modulo-1 | Lezione-5 | Linux | ⭐ Base |
 
 
 ---
